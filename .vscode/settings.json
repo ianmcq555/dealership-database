@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "connectString": "\tpostgres://sditqrew:Tbl-0C26BJGXeS7ExHDDnL0p921T4Gj9@peanut.db.elephantsql.com/sditqrew",
+            "name": "wknd-4"
+        }
+    ]
+}
